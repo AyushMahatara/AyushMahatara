@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AyushMahatara
-- 👀 I’m interested in JAVA, Game development, Testing, Web Development, Video editing and Photoshop
+- 👀 I’m interested in Fullstack Web Development, Game development, and Designing
 - 💞️ I’m looking to collaborate on these topics
 - 📫 How to reach me E-mail ayush.mahatara10@gmail.com
 

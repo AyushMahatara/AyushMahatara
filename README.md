@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Laravel, PHP, React**
 
-- 🤝 I’m looking for help to find the **correct path**
+- 🤝 I’m looking for people who can lead/help me towards **SUCCESS**
 
 - 📫 How to reach me **ayush.mahatara10@gmail.com**
 

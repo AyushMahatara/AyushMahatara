@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Mahatara</h1>
 <h3 align="center">A passionate Developer</h3>
 
-- 🌱 I’m currently learning **Laravel, PHP, React**
+- 🌱 I’m currently learning **Laravel, PHP, Vue, React**
 
 - 🤝 I’m looking for team who can lead/help me towards **EVOLUTION**
 

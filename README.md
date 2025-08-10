@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Mahatara</h1>
-<h3 align="center">A passionate **PHP** Developer</h3>
+<h3 align="center">I'm a **PHP LARAVEL** Developer</h3>
 
 - 📫 How to reach me **ayush.mahatara10@gmail.com**
 
